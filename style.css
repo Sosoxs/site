@@ -13,3 +13,12 @@ body{
     overflow: hidden;
     background: #7d589a;
 }
+.Flipbook{
+    width: 1000px;
+    height: 600px;
+}
+.Flipbook .folhas{
+    background: rgb(172, 164, 229);
+    
+}
+
