@@ -19,12 +19,13 @@ body{
 }
 .Flipbook .folhas{
     background: rgb(172, 164, 229);
+   
     color: rgb(17, 17, 43);
     font-weight: bold;
     border: none;
 }
 
 .Flipbook .folhas small{
-    
+
 }
 
